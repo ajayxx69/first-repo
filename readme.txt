@@ -1,2 +1,2 @@
-my first get repo
+this is conflict version
 second line changes
