@@ -14,3 +14,6 @@ jobs:
 
       - name: Print a message
         run: echo "Hello from GitHub Actions, Ajay!"
+
+      - name: Build Docker image
+        run: docker build -t my-first-app .
